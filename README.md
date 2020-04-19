@@ -1,31 +1,60 @@
-# Code 4 Puerto Rico Repositorio Base
+# [COVID-19 Puerto Rico Dashboard]()
 
-Repositorio base para todo proyecto en Code 4 Puerto Rico.
+ ![version](https://img.shields.io/badge/version-0.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
-## Como utilizar esto
+![Demo GIF](/docs/img/demo.gif)
 
-Haga click en el boton de `Use this template`.
+## Demo
 
-![Imgur: https://imgur.com/FeDfjCd](https://i.imgur.com/FeDfjCd.png?1)
+[View Dashboard](/docs/img/demo.gif)
 
-Una vez acabe el proceso de crear tu repositorio debería añadir o cambiar algunas cosas:
+## Data Sources
 
-1. Cambiar `code_owner` en los workflow files encontrados en directorio [.github/workflows](.github/workflows)
-2. Cambiar el valor del `cron` en el workflow [.github/workflows/stale.yml](.github/workflows/stale.yml#L6). Esto determina cuando este workflow se ejecuta. Este valor sigue el formato de `cron`. Para más información sobre esto
-    - [Wikipedia Cron](https://en.wikipedia.org/wiki/Cron)
-    - [Crontab Guru](https://crontab.guru/)
-3. Revisar y cambiar, de ser necesario, el archivo [CONTRIBUTING.md](CONTRIBUTING.md) a algo que haga sentido para tu proyecto.
-4. Recomendamos que utilizen ["Issue Templates" y "Pull Request Templates"](https://help.github.com/en/github/building-a-strong-community/using-templates-to-encourage-useful-issues-and-pull-requests).
-5. Cambiar la licencia del proyecto a una [licencia de código abierto](https://opensource.org/licenses).
-    - Tambien puedes utilizar [Choose a License](https://choosealicense.com/).
-    - [Más información sobre licencias en repositorios en GitHub](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository#where-does-the-license-live-on-my-repository)
-6. Cambiar o eliminar los `code owners` encontrados en [.github/CODEOWNERS](.github/CODEOWNERS#L5) a los usuarios pertinentes para el repositorio que se esta creando.
-    - [Más información sobre CODEOWNERS](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners)
-7. Dependiendo del proyecto es recomendable [crear "branch protections" en tu repositorio](https://help.github.com/en/github/administering-a-repository/configuring-protected-branches).
+| Source  | Website |
+| ------------- | ------------- |
+| <img src="public/img/logos/dept-salud.jpg" height="20">  | [Departamento de Salud](https://statuscovid19.pr.gov/)  |
+| <img src="public/img/logos/pr-public-health-trust.jpeg" height="50">  | [Puerto Rico Public Health Trust](https://prsciencetrust.org/prpht)  |
+| <img src="public/img/logos/google.png" height="45">  | [Google](https://www.gstatic.com/covid19/mobility/2020-04-11_PR_Mobility_Report_en.pdf)  |
 
+## Contributing
 
-## Codigo de Conducta
+1. Fork the repository
+1. Create your feature branch: ```git checkout -b add-new-feature```
+1. Commit your changes: ```git commit -am 'Add new feature'```
+1. Push to the branch: ```git push origin add-new-feature```
+1. Submit a pull request
 
-Todo proyecto en Code 4 Puerto Rico tiene que dejarse llevar por su codigo de conducta. De esto no ser posible se deberia discutir con Code 4 Puerto Rico.
+## Prerequisites
 
-Si estas usando este "template" para un proyecto fuera de Code 4 Puerto Rico les recomendamos utilizar un código de conducta mencionado [aquí](https://opensource.guide/code-of-conduct/).
+1. Node.js
+1. NPM
+1. Yarn
+
+## Installation
+
+1. Clone Repository
+```
+git clone 
+```
+
+2. Change to Directory
+```
+cd 
+```
+
+3. Install Dependencies
+```
+yarn install
+```
+
+4. Run Devlopment Mode
+```
+yarn serve
+```
+
+5. Build for Production
+```
+yarn build
+```
+
+## License
