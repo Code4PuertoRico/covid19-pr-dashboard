@@ -2,11 +2,11 @@
 
  ![version](https://img.shields.io/badge/version-0.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
-![Demo GIF](/docs/img/demo.gif)
+![Demo GIF](docs/demo.gif)
 
 ## Demo
 
-[View Dashboard](/docs/img/demo.gif)
+[View Dashboard]()
 
 ## Data Sources
 
