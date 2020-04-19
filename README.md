@@ -6,7 +6,7 @@
 
 ## Demo
 
-[View Dashboard]()
+[View Dashboard](http://covid19prdata.org/)
 
 ## Data Sources
 
@@ -34,17 +34,17 @@
 
 1. Clone Repository
 ```
-git clone 
+git clone https://github.com/Code4PuertoRico/covid19-pr-dashboard
 ```
 
-2. Change to Directory
-```
-cd 
-```
-
-3. Install Dependencies
+2. Install Dependencies
 ```
 yarn install
+```
+
+3. Change to Directory
+```
+cd src
 ```
 
 4. Run Devlopment Mode
@@ -56,5 +56,3 @@ yarn serve
 ```
 yarn build
 ```
-
-## License
