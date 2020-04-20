@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.81860e6f9cbc5f0c371f7ee7aa0a1bc5.js"
+  "/precache-manifest.5835457d603142f276327582a6b9c336.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "covid19-pr-dashboard"});
