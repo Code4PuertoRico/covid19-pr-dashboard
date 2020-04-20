@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "3319d7bd2169b483345308ffda3e9092",
-    "url": "/demo.gif"
+    "revision": "77f99ec2dd7668c4d6466df1bf653c0c",
+    "url": "/img/googleReports/residential.png"
   },
   {
     "revision": "70832f9470573349e58d1f2015c69dd9",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.91bb3506.js"
   },
   {
-    "revision": "174e2cd45101dfc9cb8e",
-    "url": "/js/demo.d9fbef15.js"
+    "revision": "c2b54dccf39fae806560",
+    "url": "/js/demo.36b01f04.js"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
@@ -25,27 +25,23 @@ self.__precacheManifest = [
   },
   {
     "revision": "3319d7bd2169b483345308ffda3e9092",
-    "url": "/img/demo.gif"
+    "url": "/demo.gif"
   },
   {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
     "url": "/fonts/nucleo-icons.2569aaea.woff"
   },
   {
-    "revision": "c1733565b32b585676302d4233c39da8",
-    "url": "/fonts/nucleo-icons.c1733565.eot"
+    "revision": "f82ec6ba2dc4181db2af35c499462840",
+    "url": "/fonts/nucleo-icons.f82ec6ba.ttf"
   },
   {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
     "url": "/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "665391d7ac0ca1e3d945e86979ae4cda",
+    "revision": "bd855b720590e40a1a30ddb13238d8ac",
     "url": "/index.html"
-  },
-  {
-    "revision": "b114fe7638721ae46aa0e0b43f50e6dc",
-    "url": "/img/logos/twitter.png"
   },
   {
     "revision": "7e4717930dab5db36bf358ca9ce185f0",
@@ -56,75 +52,79 @@ self.__precacheManifest = [
     "url": "/img/googleReports/parks.png"
   },
   {
-    "revision": "77f99ec2dd7668c4d6466df1bf653c0c",
-    "url": "/img/googleReports/residential.png"
+    "revision": "b114fe7638721ae46aa0e0b43f50e6dc",
+    "url": "/img/logos/twitter.png"
   },
   {
     "revision": "e4965171907ce356b2e096a4ffddef21",
     "url": "/img/googleReports/retail-and-recreation.png"
   },
   {
-    "revision": "a615d43e2a9fe5ae500e",
-    "url": "/js/app.c9169d0f.js"
+    "revision": "3319d7bd2169b483345308ffda3e9092",
+    "url": "/img/demo.gif"
   },
   {
-    "revision": "426439788ec5ba772cdf94057f6f4659",
-    "url": "/fonts/nucleo-icons.42643978.woff2"
+    "revision": "794970de5d160a8fc3b4",
+    "url": "/js/app.490eee75.js"
+  },
+  {
+    "revision": "c1733565b32b585676302d4233c39da8",
+    "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
     "revision": "b26a7a0f34ba966f0a8eb2b543432aa9",
     "url": "/img/googleReports/transit-stations.png"
   },
   {
-    "revision": "f82ec6ba2dc4181db2af35c499462840",
-    "url": "/fonts/nucleo-icons.f82ec6ba.ttf"
-  },
-  {
-    "revision": "b941a0bf896dafee4510714b18e14081",
-    "url": "/img/logos/code4pr.png"
-  },
-  {
-    "revision": "da0e5bb0c14d67820ba65a65be700c4a",
-    "url": "/img/logos/github.png"
+    "revision": "426439788ec5ba772cdf94057f6f4659",
+    "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
     "revision": "b60bb74f80bbe819ecd1624b31e5e7fe",
     "url": "/img/logos/covid19prdata.png"
   },
   {
-    "revision": "2d74d1b55feab6d1208ec68fab4d97b4",
-    "url": "/img/logos/engine-4.png"
+    "revision": "b941a0bf896dafee4510714b18e14081",
+    "url": "/img/logos/code4pr.png"
   },
   {
     "revision": "ad4a444daa3f95b5ef224ceb554074fe",
     "url": "/img/logos/dept-salud.jpg"
   },
   {
-    "revision": "089191b7a70748b020ee6eeea2b85f25",
-    "url": "/img/logos/slack.png"
+    "revision": "2d74d1b55feab6d1208ec68fab4d97b4",
+    "url": "/img/logos/engine-4.png"
   },
   {
-    "revision": "a6e3d740e8a3f84642c9121c49f31354",
-    "url": "/img/logos/gobierno-pr.jpg"
+    "revision": "da0e5bb0c14d67820ba65a65be700c4a",
+    "url": "/img/logos/github.png"
+  },
+  {
+    "revision": "089191b7a70748b020ee6eeea2b85f25",
+    "url": "/img/logos/slack.png"
   },
   {
     "revision": "ff629c02385f2f3a199b7e0b3065d077",
     "url": "/img/logos/google.png"
   },
   {
-    "revision": "c774b60ffc69b5693d2fee35c6007c90",
-    "url": "/img/logos/pr-public-health-trust.jpeg"
-  },
-  {
     "revision": "738233d0c5886492e5d5997392295840",
     "url": "/img/logos/gobierno-pr.png"
   },
   {
-    "revision": "174e2cd45101dfc9cb8e",
+    "revision": "a6e3d740e8a3f84642c9121c49f31354",
+    "url": "/img/logos/gobierno-pr.jpg"
+  },
+  {
+    "revision": "c774b60ffc69b5693d2fee35c6007c90",
+    "url": "/img/logos/pr-public-health-trust.jpeg"
+  },
+  {
+    "revision": "c2b54dccf39fae806560",
     "url": "/css/demo.28b6aa27.css"
   },
   {
-    "revision": "a615d43e2a9fe5ae500e",
+    "revision": "794970de5d160a8fc3b4",
     "url": "/css/app.be037809.css"
   },
   {
