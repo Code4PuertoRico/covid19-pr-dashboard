@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "b26a7a0f34ba966f0a8eb2b543432aa9",
-    "url": "/img/googleReports/transit-stations.png"
+    "revision": "7f08e9fdb243a86375a37b33599390ef",
+    "url": "/img/googleReports/workplaces.png"
   },
   {
     "revision": "70832f9470573349e58d1f2015c69dd9",
     "url": "/screenshot.png"
   },
   {
-    "revision": "7f08e9fdb243a86375a37b33599390ef",
-    "url": "/img/googleReports/workplaces.png"
+    "revision": "b26a7a0f34ba966f0a8eb2b543432aa9",
+    "url": "/img/googleReports/transit-stations.png"
   },
   {
     "revision": "80f9a7cae07a396362f1",
@@ -25,11 +25,11 @@ self.__precacheManifest = [
   },
   {
     "revision": "3319d7bd2169b483345308ffda3e9092",
-    "url": "/demo.gif"
+    "url": "/img/demo.gif"
   },
   {
-    "revision": "c1733565b32b585676302d4233c39da8",
-    "url": "/fonts/nucleo-icons.c1733565.eot"
+    "revision": "426439788ec5ba772cdf94057f6f4659",
+    "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
     "revision": "b114fe7638721ae46aa0e0b43f50e6dc",
@@ -40,40 +40,40 @@ self.__precacheManifest = [
     "url": "/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "114dd8aad9ac547d44cf7e48ad7fb772",
+    "revision": "adcb23cac117dee3b17d97303a7e7bd8",
     "url": "/index.html"
   },
   {
-    "revision": "ff629c02385f2f3a199b7e0b3065d077",
-    "url": "/img/logos/google.png"
-  },
-  {
-    "revision": "e4965171907ce356b2e096a4ffddef21",
-    "url": "/img/googleReports/retail-and-recreation.png"
+    "revision": "c1733565b32b585676302d4233c39da8",
+    "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
     "revision": "7e4717930dab5db36bf358ca9ce185f0",
     "url": "/img/googleReports/grocery-and-pharmacy.png"
   },
   {
-    "revision": "4d78630529a698ad24480d976ef2ffe0",
-    "url": "/img/googleReports/parks.png"
+    "revision": "e4965171907ce356b2e096a4ffddef21",
+    "url": "/img/googleReports/retail-and-recreation.png"
   },
   {
     "revision": "77f99ec2dd7668c4d6466df1bf653c0c",
     "url": "/img/googleReports/residential.png"
   },
   {
-    "revision": "89aaf506e726420c8b92",
-    "url": "/js/app.de845077.js"
+    "revision": "4d78630529a698ad24480d976ef2ffe0",
+    "url": "/img/googleReports/parks.png"
+  },
+  {
+    "revision": "ccd2ea303a95e2ad4fb1",
+    "url": "/js/app.73d0425d.js"
   },
   {
     "revision": "c774b60ffc69b5693d2fee35c6007c90",
     "url": "/img/logos/pr-public-health-trust.jpeg"
   },
   {
-    "revision": "3319d7bd2169b483345308ffda3e9092",
-    "url": "/img/demo.gif"
+    "revision": "738233d0c5886492e5d5997392295840",
+    "url": "/img/logos/gobierno-pr.png"
   },
   {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
@@ -84,47 +84,47 @@ self.__precacheManifest = [
     "url": "/img/logos/code4pr.png"
   },
   {
-    "revision": "b60bb74f80bbe819ecd1624b31e5e7fe",
-    "url": "/img/logos/covid19prdata.png"
-  },
-  {
-    "revision": "2d74d1b55feab6d1208ec68fab4d97b4",
-    "url": "/img/logos/engine-4.png"
-  },
-  {
     "revision": "ad4a444daa3f95b5ef224ceb554074fe",
     "url": "/img/logos/dept-salud.jpg"
+  },
+  {
+    "revision": "b60bb74f80bbe819ecd1624b31e5e7fe",
+    "url": "/img/logos/covid19prdata.png"
   },
   {
     "revision": "da0e5bb0c14d67820ba65a65be700c4a",
     "url": "/img/logos/github.png"
   },
   {
-    "revision": "a6e3d740e8a3f84642c9121c49f31354",
-    "url": "/img/logos/gobierno-pr.jpg"
+    "revision": "2d74d1b55feab6d1208ec68fab4d97b4",
+    "url": "/img/logos/engine-4.png"
   },
   {
     "revision": "089191b7a70748b020ee6eeea2b85f25",
     "url": "/img/logos/slack.png"
   },
   {
-    "revision": "738233d0c5886492e5d5997392295840",
-    "url": "/img/logos/gobierno-pr.png"
+    "revision": "ff629c02385f2f3a199b7e0b3065d077",
+    "url": "/img/logos/google.png"
   },
   {
-    "revision": "426439788ec5ba772cdf94057f6f4659",
-    "url": "/fonts/nucleo-icons.42643978.woff2"
+    "revision": "a6e3d740e8a3f84642c9121c49f31354",
+    "url": "/img/logos/gobierno-pr.jpg"
   },
   {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
     "url": "/fonts/nucleo-icons.2569aaea.woff"
   },
   {
+    "revision": "3319d7bd2169b483345308ffda3e9092",
+    "url": "/demo.gif"
+  },
+  {
     "revision": "c2b54dccf39fae806560",
     "url": "/css/demo.28b6aa27.css"
   },
   {
-    "revision": "89aaf506e726420c8b92",
+    "revision": "ccd2ea303a95e2ad4fb1",
     "url": "/css/app.be037809.css"
   },
   {
