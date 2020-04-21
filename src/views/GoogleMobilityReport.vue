@@ -9,7 +9,7 @@
                 <span style="font-size: 20px"><strong>Reporte Actualizado:</strong> 04/19/2020, 9:00 AM</span>
                 <br>
                 <br>
-                <strong>Disclaimer:</strong> Datos son provistos Google. No somos resonsables por la integridad de la data reportada, sólo brindamos una mejor forma para visualizarla.</span>
+                <strong>Disclaimer:</strong> Datos son provistos por Google. No somos resonsables por la integridad de la data reportada, sólo brindamos una mejor forma para visualizarla.</span>
               <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                   <span aria-hidden="true">&times;</span>
               </button>

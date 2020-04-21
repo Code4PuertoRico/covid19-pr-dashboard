@@ -53,7 +53,7 @@
                 <ul class="navbar-nav mb-md-3">
                     <li class="nav-item">
                         <a class="nav-link"
-                           href="https://github.com/Code4PuertoRico/covid19-response">
+                           href="https://github.com/Code4PuertoRico/covid19-pr-dashboard">
                             <img src="img/logos/github.png" class="sidebar-logos"/> Código abierto en Github
                         </a>
                     </li>

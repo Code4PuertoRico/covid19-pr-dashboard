@@ -3,7 +3,7 @@
     <div class="card-header border-0">
       <div class="row align-items-center">
         <div class="col">
-          <h3 class="mb-0">Registro de Casos Nuevos</h3>
+          <h3 class="mb-0">Distribución de Casos Acumulados</h3>
         </div>
         <!-- <div class="col text-right">
           <base-button size="sm" type="primary">See all</base-button>

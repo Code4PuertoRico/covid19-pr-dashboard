@@ -12,7 +12,7 @@ export default {
       chartOptions: {
         labels: ["Negativos", "Positivos", "Pendientes", "Inconclusos"],
       },
-      series: [8280, 1213, 1830, 9],
+      series: [8789, 1298, 1751, 10],
     }
   },
   methods: {

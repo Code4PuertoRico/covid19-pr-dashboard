@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <apexchart ref="registroDeCasos" width="300" type="pie" :options="chartOptions" :series="series"></apexchart>
+    <apexchart ref="registroDeCasos" type="pie" :options="chartOptions" :series="series"></apexchart>
   </div>
 </template>
 
@@ -12,10 +12,12 @@ export default {
       chartOptions: {
         labels: ["Adm. Veteranos", "Dept. de Salud", "Labs Privados"],
       },
-      series: [4, 3, 43],
+      series: [1, 4, 41],
     }
   },
   methods: {
   }
 }
 </script>
+<style>
+</style>

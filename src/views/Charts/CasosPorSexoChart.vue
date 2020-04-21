@@ -12,7 +12,7 @@ export default {
       chartOptions: {
         labels: ["M", "F"],
       },
-      series: [581, 537],
+      series: [667, 631],
     }
   },
   methods: {

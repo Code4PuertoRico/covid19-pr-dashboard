@@ -14,7 +14,7 @@
             <a href="https://github.com/Code4PuertoRico/Code4PR" class="nav-link">About Us</a>
           </li>
           <li class="nav-item">
-            <a href="https://github.com/Code4PuertoRico/covid19-response/blob/master/LICENSE" class="nav-link">License</a>
+            <a href="https://github.com/Code4PuertoRico/covid19-pr-dashboard/blob/master/LICENSE" class="nav-link">License</a>
           </li>
         </ul>
       </div>
