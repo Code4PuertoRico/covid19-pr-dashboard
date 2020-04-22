@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 401
+  force = true
+  [redirects.headers]
+    X-From = "Netlify"
