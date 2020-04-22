@@ -12,7 +12,7 @@ export default {
           series: [{
             name: 'Personas',
             type: 'column',
-            data: [17, 50, 182, 189, 246, 277, 176, 98, 80]
+            data: [19, 52, 187, 203, 257, 297, 192, 104, 57]
           }],
           chartOptions: {
             chart: {
