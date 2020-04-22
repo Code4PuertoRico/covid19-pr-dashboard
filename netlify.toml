@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/*"
+  from = "/dashboard"
   to = "/"
   status = 404
   force = true
