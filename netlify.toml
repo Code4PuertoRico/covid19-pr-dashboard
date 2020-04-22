@@ -1,7 +1,7 @@
 [[redirects]]
-  from = "/*"
+  from = "/dashboard"
   to = "/"
-  status = 401
+  status = 404
   force = true
   [redirects.headers]
     X-From = "Netlify"
