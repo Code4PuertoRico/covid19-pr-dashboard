@@ -34,6 +34,11 @@ export default new Router({
           path: '/prpht',
           name: 'PR Public Health Trust Dashboard',
           component: () => import(/* webpackChunkName: "demo" */ './views/PublicHealthTrust.vue')
+        },
+        {
+          path: '/facebook',
+          name: 'FB Mobility Dashboard',
+          component: () => import(/* webpackChunkName: "demo" */ './views/FBMobilityDashboard.vue')
         }
       ]
     },

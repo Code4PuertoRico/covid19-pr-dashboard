@@ -6,7 +6,7 @@
           <base-alert type="warning" dismissible>
 
               <span class="alert-inner--text">
-                <span style="font-size: 20px"><strong>Reporte Actualizado:</strong> 04/22/2020, 7:30 AM</span>
+                <span style="font-size: 20px"><strong>Reporte Actualizado:</strong> 04/23/2020, 6:30 AM</span>
                 <br>
                 <br>
                 <strong>Disclaimer:</strong> Datos son provistos por fuentes externas como el Departamento
@@ -21,12 +21,12 @@
                 <div class="col-xl-4 col-lg-6 mt-3">
                     <stats-card title="Casos Nuevos"
                                 type="gradient-primary"
-                                sub-title="80"
+                                sub-title="38"
                                 icon="ni ni-ambulance"
                                 class="mb-4 mb-xl-0"
                     >
                       <template slot="footer">
-                          <span class="text-danger mr-2"><i class="fa fa-arrow-up"></i> 73.91%</span>
+                          <span class="text-green mr-2"><i class="fa fa-arrow-up"></i> -52.50%</span>
                           <span class="text-nowrap">desde ayer</span>
                       </template>
                     </stats-card>
@@ -34,12 +34,12 @@
                 <div class="col-xl-4 col-lg-6 mt-3">
                     <stats-card title="Casos Positivos"
                                 type="gradient-red"
-                                sub-title="1,378"
+                                sub-title="1,416"
                                 icon="ni ni-fat-add"
                                 class="mb-4 mb-xl-0"
                     >
                       <template slot="footer">
-                          <span class="text-danger mr-2"><i class="fa fa-arrow-up"></i> 6.16%</span>
+                          <span class="text-danger mr-2"><i class="fa fa-arrow-up"></i> 2.76%</span>
                           <span class="text-nowrap">desde ayer</span>
                       </template>
                     </stats-card>
@@ -47,12 +47,12 @@
                 <div class="col-xl-4 col-lg-6 mt-3">
                     <stats-card title="Casos Pendientes"
                                 type="gradient-orange"
-                                sub-title="1,944"
+                                sub-title="1,940"
                                 icon="ni ni-folder-17"
                                 class="mb-4 mb-xl-0"
                     >
                         <template slot="footer">
-                            <span class="text-danger mr-2"><i class="fa fa-arrow-up"></i> 11.02%</span>
+                            <span class="text-success mr-2"><i class="fa fa-arrow-down"></i> -0.21%</span>
                             <span class="text-nowrap">desde ayer</span>
                         </template>
                     </stats-card>
@@ -60,12 +60,12 @@
                 <div class="col-xl-4 col-lg-6 mt-3">
                     <stats-card title="Muertes"
                                 type="gradient-default"
-                                sub-title="67"
+                                sub-title="69"
                                 icon="ni ni-badge"
                                 class="mb-4 mb-xl-0"
                     >
                       <template slot="footer">
-                          <span class="text-danger mr-2"><i class="fa fa-arrow-up"></i> 4.69%</span>
+                          <span class="text-danger mr-2"><i class="fa fa-arrow-up"></i> 2.99%</span>
                           <span class="text-nowrap">desde ayer</span>
                       </template>
                     </stats-card>
@@ -73,12 +73,12 @@
                 <div class="col-xl-4 col-lg-6 mt-3">
                     <stats-card title="Casos Negativos"
                                 type="gradient-green"
-                                sub-title="8,842"
+                                sub-title="9,313"
                                 icon="ni ni-fat-delete"
                                 class="mb-4 mb-xl-0"
                     >
                         <template slot="footer">
-                            <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> 0.60%</span>
+                            <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> 5.33%</span>
                             <span class="text-nowrap">desde ayer</span>
                         </template>
                     </stats-card>
@@ -112,7 +112,7 @@
 
                         <pruebas-vs-casos-positivos-chart></pruebas-vs-casos-positivos-chart>
 
-                        <small>*10 Casos Inconclusos</small>
+                        <small>*11 Casos Inconclusos</small>
                     </card>
                 </div>
             </div>
@@ -128,7 +128,7 @@
 
                         <casos-nuevos-chart></casos-nuevos-chart>
 
-                        <small>*10 Casos Inconclusos</small>
+                        <small>*11 Casos Inconclusos</small>
                     </card>
                 </div>
                 <div class="col-xl-4">
@@ -186,7 +186,7 @@
                         </div>
                         <casos-por-edad-chart v-show="showCasosPorEdadChart"></casos-por-edad-chart>
 
-                        <small>*10 Casos Inconclusos</small>
+                        <small>*11 Casos Inconclusos</small>
                     </card>
                 </div>
             </div>

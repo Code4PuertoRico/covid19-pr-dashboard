@@ -70,6 +70,19 @@
                         </a>
                     </li>
                 </ul>
+                <!--Divider-->
+                <hr class="my-3">
+                <!--Heading-->
+                <h6 class="navbar-heading text-muted">Recursos</h6>
+                <!--Navigation-->
+                <ul class="navbar-nav mb-md-3">
+                    <li class="nav-item">
+                        <a class="nav-link"
+                           href="https://github.com/ChrisMichaelPerezSantiago/covid19">
+                            <img src="img/logos/github.png" class="sidebar-logos"/> COVID-19 API
+                        </a>
+                    </li>
+                </ul>
             </div>
             </div>
     </nav>

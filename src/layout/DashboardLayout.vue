@@ -22,6 +22,7 @@
         <sidebar-item :link="{name: 'Puerto Rico Task Force', path: '/taskforce', img: 'img/logos/gobierno-pr.jpg'}"/>
         <sidebar-item :link="{name: 'PR Public Health Trust', path: '/prpht', img: 'img/logos/pr-public-health-trust.jpeg'}"/>
         <sidebar-item :link="{name: 'Google Mobility Report', path: '/google', img: 'img/logos/google.png'}"/>
+        <sidebar-item :link="{name: 'FB Mobility Dashboard', path: '/facebook', img: 'img/logos/fb.png'}"/>
 
       </template>
     </side-bar>
