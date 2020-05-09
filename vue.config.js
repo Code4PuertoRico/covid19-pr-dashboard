@@ -20,5 +20,37 @@ module.exports = {
   css: {
     // Enable CSS source maps.
     sourceMap: process.env.NODE_ENV !== 'production'
+  },
+
+  productionSourceMap: false,
+  pluginOptions: {
+    electronBuilder: {
+      builderOptions: {
+        appId: "com.covid19-pr-dashboard.app",
+        productName: "covid19-pr-dashboard",
+        win: {
+          icon: "public/img/logos/code4pr.png",
+          target: [
+            {
+              target: "nsis",
+              arch: ["x64", "ia32"]
+            }
+          ]
+        },
+        nsis:{
+          oneClick: false,
+          perMachine: true,
+          allowToChangeInstallationDirectory: true
+        },
+        publish: [
+          {
+            provider: "github",
+            owner: "Code4PuertoRico",
+            repo: "covid19-pr-dashboard",
+            releaseType: "draft",
+          }
+        ]
+      }
+    }
   }
 };
